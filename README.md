@@ -15,3 +15,7 @@ As output, the program should list all the unique configurations to the console 
 ============
 
 Main class is it.mbruni.trycatch.BoardChecker, please find Javadocs and comments in source file.
+
+No parameter is needed on the command line. Just launch the main class, after compiling:
+
+java it.mbruni.trycatch.BoardChecker
